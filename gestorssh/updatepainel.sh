@@ -42,10 +42,10 @@ ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime > /dev/null 2>&1
 dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 IP=$(wget -qO- ipv4.icanhazip.com)
 clear
-echo -e "\E[44;1;37m    ATUALIZANDO O PAINELWEB GESTOR-SSH     \E[0m"
+echo -e "\E[44;1;37m    ATUALIZANDO O PAINELWEB SWIT-T     \E[0m"
 echo ""
-echo -e "                              \033[1;31mBy @nandoslayer\033[1;36m"
-echo -e "   GESTOR-SSH" | figlet
+echo -e "                              \033[1;31mBy @swittecnologia\033[1;36m"
+echo -e "   P-SWIT-T" | figlet
 echo ""
 clear
 #
@@ -55,7 +55,7 @@ echo ""
 echo -e "           \033[1;33m● \033[1;32mFINALIZANDO A ATUALIZAÇÃO, PODE DEMORAR \033[1;33m● \033[1;33mAGUARDE...\033[0m"
 cd /var/www/html || exit
 rm -rf * > /dev/null 2>&1
-wget https://github.com/nandoslayer/plusnssh/raw/ntech/gestorssh/gestorssh.zip > /dev/null 2>&1
+wget https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/gestorssh.zip > /dev/null 2>&1
 sleep 1
 unzip -o gestorssh.zip > /dev/null 2>&1
 rm -rf gestorssh.zip index.html > /dev/null 2>&1
@@ -84,8 +84,8 @@ sed -i "s;EMPRESA;$empresaatual;g" /var/www/html/apps/termos.php > /dev/null 2>&
 echo ""
 service apache2 restart > /dev/null 2>&1
 echo ""
-echo -e "                              \033[1;31mBy @nandoslayer\033[1;36m"
-echo -e "   GESTOR-SSH" | figlet
+echo -e "                              \033[1;31mBy @swittecnologia\033[1;36m"
+echo -e "   P-SWIT-T" | figlet
 echo ""
 echo -e "\033[1;36m PAINELWEB DIGITE ESSE IP NO NAVEGADOR:\033[1;37m http://$IP/admin\033[0m"
 echo ""
