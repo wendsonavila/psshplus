@@ -142,7 +142,7 @@ tst_bkp
 clear
 echo -e "\033[1;32m P-SWIT-T INSTALADO COM SUCESSO!"
 echo ""
-echo -e "                 \033[1;31mBy @nandoslayer\033[1;36m"
+echo -e "                 \033[1;31mBy @swittecnologia\033[1;36m"
 echo ""
 echo -e "\033[1;36m SEU PAINEL:\033[1;37m http://$IP/admin\033[0m"
 echo -e "\033[1;36m USUÁRIO:\033[1;37m admin\033[0m"
