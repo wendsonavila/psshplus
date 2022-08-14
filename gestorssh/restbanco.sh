@@ -73,7 +73,7 @@ pweb
 mysql -h localhost -u root -p$passdb -e "drop database sshplus"
 mysql -h localhost -u root -p$passdb -e 'CREATE DATABASE sshplus'
 mysql -h localhost -u root -p$passdb --default_character_set utf8 sshplus < /root/restaurar/sshplus.sql
-echo -e "                              \033[1;31mBy @nandoslayer\033[1;36m"
+echo -e "                              \033[1;31mBy @swittecnologia\033[1;36m"
 echo ""
 echo -e "\n\033[1;32mDADOS RESTAURADO COM SUCESSO!\033[0m"
 echo ""
