@@ -15,5 +15,6 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 # ATUALIZAÇÃO 15/08/2022
 ```
-1- Painel Conecta4G
+1- Painel Conecta4G 
+(Usuário/Senha: admin/admin)
 ```
