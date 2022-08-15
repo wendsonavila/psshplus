@@ -1,5 +1,5 @@
-# INSTALAR PAINELWEB GESTOR-SSH 
-(DEBIAN 8, UBUNTU 14 E UBUNTU 18!).
+✅ # INSTALAR PAINELWEB GESTOR-SSH 
+⚠ SISTEMAS SUPORTADOS: (DEBIAN 8, UBUNTU 14 E UBUNTU 18!).⚠
 ```
 apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/instpainel.sh)
 ```
