@@ -12,8 +12,10 @@ apt-get install mariadb-server -y > /dev/null 2>&1
 cd || exit
 mysqladmin -u root password "$pwdroot"
 mysql -u root -p"$pwdroot" -e "UPDATE mysql.user SET Password=PASSWORD('$pwdroot') WHERE User='root'"
+mysql -u root -p"$pwdroot" -e "DELETE FROM mysql.user WHERE User=''"
 mysql -u root -p"$pwdroot" -e "DELETE FROM mysql.db WHERE Db='test' OR Db='test\_%'"
 mysql -u root -p"$pwdroot" -e "FLUSH PRIVILEGES"
+mysql -u root -p"$pwdroot" -e "CREATE USER 'root'@'localhost';'"
 mysql -u root -p"$pwdroot" -e "CREATE DATABASE sshplus;"
 mysql -u root -p"$pwdroot" -e "GRANT ALL PRIVILEGES ON root.* To 'root'@'localhost' IDENTIFIED BY '$pwdroot';"
 mysql -u root -p"$pwdroot" -e "FLUSH PRIVILEGES"
