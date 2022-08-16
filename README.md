@@ -35,4 +35,5 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 @crazy_vpn
 @nandoslayer
 @swittecnologia
+@Davidsdy
 ```
