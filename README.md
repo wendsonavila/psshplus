@@ -28,4 +28,4 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 ![Screenshot_1](https://user-images.githubusercontent.com/105602625/184881201-1301576a-8284-4079-9d2c-c168f7d37788.jpg)
 ![Screenshot_4](https://user-images.githubusercontent.com/105602625/184990006-0a13ff1c-3d57-43ec-8e9d-3d86f3f91c4d.jpg)
 ![Screenshot_5](https://user-images.githubusercontent.com/105602625/184990008-14ff626d-f9ce-4600-8bc5-565078e804b4.jpg)
-
+![Screenshot_6](https://user-images.githubusercontent.com/105602625/184990872-88d01e02-fd09-4080-bb2c-f783d31c586f.jpg)
