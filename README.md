@@ -24,7 +24,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
-![P-SWIT-T 2022](https://user-images.githubusercontent.com/105602625/185815529-3f3f25aa-db92-43f1-a917-b47fcf1e9542.png)https://youtu.be/eLurS-xv17Y
+![P-SWIT-T 2022](https://youtu.be/eLurS-xv17Y)
 
 # 📷 IMAGENS:
 ![Screenshot_2](https://user-images.githubusercontent.com/105602625/184881213-3f95b37e-9621-4c1d-b448-d6e048fe0292.jpg)
