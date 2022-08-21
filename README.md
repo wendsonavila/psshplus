@@ -24,9 +24,8 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
-```
 YOUTUBE: https://youtu.be/eLurS-xv17Y
-```
+
 
 # 📷 IMAGENS:
 ![Screenshot_2](https://user-images.githubusercontent.com/105602625/184881213-3f95b37e-9621-4c1d-b448-d6e048fe0292.jpg)
