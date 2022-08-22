@@ -32,11 +32,15 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 
 # 📷 IMAGENS:
-![Screenshot_2](https://user-images.githubusercontent.com/105602625/184881213-3f95b37e-9621-4c1d-b448-d6e048fe0292.jpg)
+![Login cLoja de Apps](https://user-images.githubusercontent.com/105602625/186015810-ee4b3b5a-96c7-42fb-9621-d2d70a9d8643.jpg)
+
 ![Screenshot_1](https://user-images.githubusercontent.com/105602625/184881201-1301576a-8284-4079-9d2c-c168f7d37788.jpg)
+
 ![Screenshot_4](https://user-images.githubusercontent.com/105602625/184990006-0a13ff1c-3d57-43ec-8e9d-3d86f3f91c4d.jpg)
+
 ![Screenshot_5](https://user-images.githubusercontent.com/105602625/184990008-14ff626d-f9ce-4600-8bc5-565078e804b4.jpg)
-![Screenshot_6](https://user-images.githubusercontent.com/105602625/184990872-88d01e02-fd09-4080-bb2c-f783d31c586f.jpg)
+
+![Loja de Apps (1)](https://user-images.githubusercontent.com/105602625/186015816-e7ab04c0-b8ff-464e-84d9-a7b552ba7cc1.jpg)
 
 # 📜 CRÉDITOS:
 ```
@@ -45,3 +49,6 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 @swittecnologia
 @Davidsdy
 ```
+
+# 🚀 VPN MONEY:
+👉 https://kiwify.app/NKl55g5.
