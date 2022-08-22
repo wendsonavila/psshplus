@@ -14,13 +14,17 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/instcheck.sh)
 ```
 
-# ✅ ATUALIZAÇÃO 15/08/2022
+# ✅ ATUALIZAÇÃO 22/08/2022
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
 
 2- Painel Conecta4G 
 (Usuário/Senha: admin/admin)
+
+3- Loja de APPS 
+(Link na tela de login/Revenda e Login/Admin)
+(Troca de cor da Top-Bar e icones nos Textos)
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
