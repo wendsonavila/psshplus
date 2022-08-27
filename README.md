@@ -14,7 +14,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/instcheck.sh)
 ```
 
-# ✅ ATUALIZAÇÃO 22/08/2022
+# ✅ ATUALIZAÇÃO 27/08/2022
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
