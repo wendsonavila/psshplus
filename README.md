@@ -25,6 +25,10 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 3- Loja de APPS 
 (Link na tela de login/Revenda e Login/Admin)
 (Troca de cor da Top-Bar e icones nos Textos)
+
+4- Background Área Revenda e Área Admin
+(Para alterar as imagens, basta trocar as images na pasta /var/www/html/app-assets/images/background/)
+(Manter os mesmo nome nas imagens que colocar novas (bk-admin.jpg = para admin) e (bk-rv.jpg = para revenda))
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
