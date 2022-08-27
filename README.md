@@ -36,7 +36,9 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 
 # 📷 IMAGENS:
-![Login cLoja de Apps](https://user-images.githubusercontent.com/105602625/186015810-ee4b3b5a-96c7-42fb-9621-d2d70a9d8643.jpg)
+![LOGIN ADMIN](https://user-images.githubusercontent.com/105602625/187033648-c587cd0b-0ba2-4842-afe7-5054c770246e.jpg)
+
+![LOGIN REVENDA](https://user-images.githubusercontent.com/105602625/187033649-48e209ff-b9ee-4df6-9808-e4986d945974.jpg)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105602625/184881201-1301576a-8284-4079-9d2c-c168f7d37788.jpg)
 
