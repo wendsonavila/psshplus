@@ -36,6 +36,9 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 6- Página de Termos de Uso editada
 (foi adicionado uma imagem no topo)
 (cor do background trocada)
+
+7- Todos os nomes GESTOR-SSH foi trocado por EMPRESA
+(quando alterar o NOME DA LOGO no painel pweb, Todos os texto EMPRESA sera trocado também.)
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
