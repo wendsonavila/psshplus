@@ -14,7 +14,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/instcheck.sh)
 ```
 
-# ✅ ATUALIZAÇÃO 27/08/2022
+# ✅ ATUALIZAÇÃO 29/08/2022
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
@@ -29,6 +29,9 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 4- Background Área Revenda e Área Admin
 (Para alterar as imagens, basta trocar as images na pasta /var/www/html/app-assets/images/background/)
 (Manter os mesmos nomes nas imagens novas (bk-admin.jpg = para admin) e (bk-rv.jpg = para revenda))
+
+5- Texto Flutuante na Tela Login/Revenda
+(📣 NOVIDADES AQUI !!!) Para editar, basta ir em /var/www/html/index.php (linha 86)
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
