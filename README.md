@@ -32,6 +32,10 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 5- Texto Flutuante na Tela Login/Revenda
 (📣 NOVIDADES AQUI !!!) Para editar, basta ir em /var/www/html/index.php (linha 86)
+
+6- Página de Termos de Uso editada
+(foi adicionado uma imagem no topo)
+(cor do background trocada)
 ```
 
 # 🎞 VÍDEO DE INSTALAÇÃO
