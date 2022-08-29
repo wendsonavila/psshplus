@@ -46,9 +46,9 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 
 # 📷 IMAGENS:
-![LOGIN ADMIN](https://user-images.githubusercontent.com/105602625/187033648-c587cd0b-0ba2-4842-afe7-5054c770246e.jpg)
+![LOGIN REVENDA-NV](https://user-images.githubusercontent.com/105602625/187283396-50394a4d-e696-429e-978f-4c67ecf71bdd.jpg)
 
-![LOGIN REVENDA](https://user-images.githubusercontent.com/105602625/187033649-48e209ff-b9ee-4df6-9808-e4986d945974.jpg)
+![LOGIN ADMIN](https://user-images.githubusercontent.com/105602625/187033648-c587cd0b-0ba2-4842-afe7-5054c770246e.jpg)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105602625/184881201-1301576a-8284-4079-9d2c-c168f7d37788.jpg)
 
@@ -57,6 +57,8 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 ![Screenshot_5](https://user-images.githubusercontent.com/105602625/184990008-14ff626d-f9ce-4600-8bc5-565078e804b4.jpg)
 
 ![Loja de Apps (1)](https://user-images.githubusercontent.com/105602625/186015816-e7ab04c0-b8ff-464e-84d9-a7b552ba7cc1.jpg)
+
+![Termos_de_Uso](https://user-images.githubusercontent.com/105602625/187283399-d5b41bd6-1de0-42af-800b-a59e45fdc5cd.jpg)
 
 # 📜 CRÉDITOS:
 ```
