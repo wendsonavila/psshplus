@@ -1,6 +1,4 @@
 #if 0
-	shc Version 3.8.9b, Generic Script Compiler
-	Copyright (c) 1994-2015 Francisco Rosales <frosal@fi.upm.es>
 
 	shc -f instpainel.sh 
 #endif
