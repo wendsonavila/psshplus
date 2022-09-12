@@ -51,10 +51,7 @@ date=$(date '+%Y-%m-%d <> %H:%M:%S')
 echo ""
 echo -e "\033[1;36m $system                          $date \033[1;37m "
 figlet ' SWIT-T-PLUS ' | boxes -d stone -p a0v0 | lolcat
-echo -e '  https://t.me/swittecnologia' | boxes -d stone -p a0v0 | lolcat
-echo -e "\033[1;36mSE VOCÊ NÃO PUDER SE DESTACAR PELO TALENTO, VENÇA PELO ESFORÇO.\033[1;37m " 
-echo -e "\033[01;36m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"
-echo ""
+echo -e "\033[01;32m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m "
 echo ""
 echo -e "                      \033[1;36mPAINEL WEB SWIT-T-PLUS 2022\033[1;37m "
 echo -e "                      \033[1;36mSISTEMAS COMPATÍVEIS\033[1;37m "
@@ -66,9 +63,9 @@ echo -e "\033[1;36m• \033[1;37mPARA ARQUIRIR UMA KEY, ENTRE EM CONTATO: 649967
 echo -e "\033[1;36m• \033[1;37mOBRIGADO PELA PREFERÊNCIA!!!\033[0m"
 echo -e "\033[1;36m \033[1;37m\033[0m"
 echo ""
-echo -e "\033[1;36m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"
+echo -e "\033[1;32m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"
 echo ""
-echo -ne "\033[1;36mINFORME SUA KEY:\033[1;37m "; read _key_
+echo -ne "\033[1;32mINFORME SUA KEY:\033[1;32m "; read _key_
 if [[ -z $_key_ ]]; then
 echo ""
 echo -e "\033[1;31m KEY INVALIDA\033[1;32m"
