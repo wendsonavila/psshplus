@@ -55,7 +55,7 @@ echo -e "\033[01;32m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
 echo ""
 echo -e "                      \033[1;32m.::PAINEL WEB SWIT-T-PLUS 2022::.\033[1;37m "
 echo ""
-echo -e "\033[1;37m.::SISTEMAS COMPATÍVEIS::.\033[1;37m "
+echo -e "\033[1;37m.::SISTEMAS COMPATÍVEIS::.\033[0m"
 echo ""
 echo -e "\033[1;37m• \033[1;37mUBUNTU 18 x64\033[0m 🐧"
 echo -e "\033[1;37m• \033[1;37mDEBIAN  8 x64\033[0m 🐧"
