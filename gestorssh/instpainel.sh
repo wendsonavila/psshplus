@@ -49,26 +49,24 @@ clear; exit 1
 system=$(cat /etc/issue.net)
 date=$(date '+%Y-%m-%d <> %H:%M:%S')
 echo ""
-echo -e "\033[1;37m $system                          $date"
-figlet ' ANUBIS X 2022' | boxes -d stone -p a0v0 | lolcat
-echo -e figlet ' ANUBIS X 2022' | boxes -d stone -p a0v0 | lolcat
-echo "SE VI MAIS LONGE DO QUE OUTROS, FOI POR ESTÁ DE PÉ SOBRE OMBROS DE GIGANTES" 
-echo -e "\033[01;31m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"
+echo -e "\033[1;36m $system                          $date \033[1;37m "
+figlet ' SWIT-T-PLUS ' | boxes -d stone -p a0v0 | lolcat
+echo -e '  https://t.me/swittecnologia' | boxes -d stone -p a0v0 | lolcat
+echo -e "\033[1;36mSE VOCÊ NÃO PUDER SE DESTACAR PELO TALENTO, VENÇA PELO ESFORÇO.\033[1;37m " 
+echo -e "\033[01;36m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\037[0m"
 echo ""
 echo ""
-echo -e "                       \033[05;31mSISTEMAS \033[05;33mOPERACIONAIS\033[0m"
+echo -e "                       033[1;36mPAINEL WEB SWIT-T-PLUS 2022\033[1;37m "
+echo -e "                       033[1;36mSISTEMAS COMPATÍVEIS\033[1;37m "
 echo ""
-echo -e "\033[1;31m• \033[1;33mUBUNTU 18 x64\033[0m 🐧"
-echo -e "\033[1;31m• \033[1;33mUBUNTU 20 x64\033[0m 🐧"
-echo -e "\033[1;31m• \033[1;33mDEBIAN  9 x64\033[0m 🐧"
-echo -e "\033[1;31m• \033[1;33mDEBIAN 10 x64\033[0m 🐧"
-echo -e "\033[1;31m• \033[1;33mDEBIAN 11 x64\033[0m 🐧"
-echo -e "\033[1;31m \033[1;33m\033[0m"
-echo -e "\033[1;31m• \033[1;33mUSE UBUNTU 18 x64 PARA UMA MELHOR EXPERIÊNCIA\033[0m"
-echo -e "\033[1;31m• \033[1;33mUSE UBUNTU 18 x64 PARA (V2RAY) EVITEM OUTROS SISTEMAS\033[0m"
-echo -e "\033[1;31m \033[1;33m\033[0m"
+echo -e "\033[1;36m• \033[1;37mUBUNTU 18 x64\033[0m 🐧"
+echo -e "\033[1;36m• \033[1;37mDEBIAN  8 x64\033[0m 🐧"
+echo -e "\033[1;36m \033[1;37m\033[0m"
+echo -e "\033[1;36m• \033[1;37mPARA ARQUIRIR UMA KEY, ENTRE EM CONTATO: 64996711369 \033[0m"
+echo -e "\033[1;36m• \033[1;37mOBRIGADO PELA PREFERÊNCIA!!!\033[0m"
+echo -e "\033[1;36m \033[1;37m\033[0m"
 echo ""
-echo -e "\033[1;31m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣033[0m"
+echo -e "\033[1;36m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"
 echo ""
 echo -ne "\033[1;36mINFORME SUA KEY:\033[1;37m "; read _key_
 if [[ -z $_key_ ]]; then
