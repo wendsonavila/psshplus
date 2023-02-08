@@ -8,23 +8,23 @@ clear
 echo -e "\033[1;36mPOR FAVOR AGUARDE...\033[0m"
 crack=$(cut -d"'" -f2 /opt/sshplus/licenca.txt) > /dev/null 2>&1
 sleep 1.5
-echo -e "\033[1;36mCRACKEANDO UMA LICENÇA...\033[0m"
+echo -e "\033[1;36mGERANDO UMA LICENÇA...\033[0m"
 rm *.sh* > /dev/null 2>&1
 rm *.zip > /dev/null 2>&1
 apt install unzip -y > /dev/null 2>&1
-wget github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/sshplus.zip.001 > /dev/null 2>&1
-wget github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/sshplus.zip.002 > /dev/null 2>&1
-wget github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/sshplus.zip.003 > /dev/null 2>&1
+wget github.com/wendsonavila/psshplus/raw/main/gestorssh/sshplus.zip.001 > /dev/null 2>&1
+wget github.com/wendsonavila/psshplus/raw/main/gestorssh/sshplus.zip.002 > /dev/null 2>&1
+wget github.com/wendsonavila/psshplus/raw/main/gestorssh/sshplus.zip.003 > /dev/null 2>&1
 cat sshplus.zip* > monitor.zip && zip -F monitor.zip > /dev/null 2>&1
 rm -rf /opt/sshplus > /dev/null 2>&1
 unzip monitor.zip -d  /opt/sshplus/ > /dev/null 2>&1
 chmod -R 777 /opt/sshplus > /dev/null 2>&1
 sleep 1
 if [[ -e "/opt/sshplus/licenca.txt" ]]; then
-sed -i "s;ATIVADO;$crack;g" /opt/sshplus/licenca.txt > /dev/null 2>&1
+sed -i "s;ATIVADO;$WRSSH;g" /opt/sshplus/licenca.txt > /dev/null 2>&1
 fi
 clear
-wget github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/sincpainel.zip > /dev/null 2>&1
+wget github.com/wendsonavila/psshplus/raw/main/gestorssh/sincpainel.zip > /dev/null 2>&1
 unzip sincpainel.zip > /dev/null 2>&1
 chmod +x *sh > /dev/null 2>&1
 service ssh restart
